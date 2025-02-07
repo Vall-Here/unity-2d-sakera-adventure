@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bcd012716190441b93d87835ed45bb, type: 3}
+  m_Name: QM-Sakera-Database
+  m_EditorClassIdentifier: 
+  m_description: 
+  m_questAssets:
+  - {fileID: 11400000, guid: 04fff722dcc4cc34db830b481299a4c2, type: 2}
+  - {fileID: 11400000, guid: e5737c58140d0b9458a56fda6513ba66, type: 2}
+  - {fileID: 11400000, guid: 810cc6dcb83e4f842a28c0f7640194d8, type: 2}
+  - {fileID: 11400000, guid: 996210db1c93c9249a66161b78ba96d1, type: 2}
+  m_images: []

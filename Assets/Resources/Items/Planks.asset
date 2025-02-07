@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ecf2201dbc5d9b4a9767bbb8755d2df, type: 3}
+  m_Name: Planks
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 1
+  <MaxStackSize>k__BackingField: 64
+  <Name>k__BackingField: Planks
+  <ItemType>k__BackingField: 7
+  <Description>k__BackingField: Plank Description
+  <ItemImage>k__BackingField: {fileID: 223352731, guid: c0803a2cb46f9b54c98208b3c4f7ac0e, type: 3}
+  <DefaultParametersList>k__BackingField: []
+  <ItemPrefab>k__BackingField: {fileID: 5809587180818485542, guid: 501f83037acd9694b82b3abdbb591eb5, type: 3}
+  <ItemUIPrefab>k__BackingField: {fileID: 5809587180818485542, guid: 501f83037acd9694b82b3abdbb591eb5, type: 3}
+  <Price>k__BackingField: 1
+  modifiersData: []
+  <actionSFX>k__BackingField: {fileID: 0}

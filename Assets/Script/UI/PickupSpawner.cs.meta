@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ccb3d3c5dd87d564185cad8523aee004
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CoinPrefab: {fileID: 5809587180818485542, guid: e5127e042d3d57344b24adead842a514, type: 3}
+  - LeavesPrefab: {fileID: 5809587180818485542, guid: 4e7b5bc5f4872374385fe625b9e3c78e, type: 3}
+  - PlankPrefab: {fileID: 5809587180818485542, guid: 501f83037acd9694b82b3abdbb591eb5, type: 3}
+  - coinItemSO: {fileID: 11400000, guid: 9fc40904c6914424093d3f23894ebe81, type: 2}
+  - leavesItemSO: {fileID: 11400000, guid: 7a9e5b22a6512a44bb165081e96dcd2e, type: 2}
+  - plankItemSO: {fileID: 11400000, guid: 69dbf546fcf307b47bc28842f4de9977, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
